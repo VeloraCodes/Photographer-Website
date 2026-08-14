@@ -1,0 +1,6 @@
+{
+  "name": "Vigraph Studio - Photographer Portfolio",
+  "description": "Professional photography portfolio website for Vigraph Studio featuring John Doe's works, skillset, 3D coverflow showcase, pricing plans, and contact features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
